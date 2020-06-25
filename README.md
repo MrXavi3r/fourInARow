@@ -1,2 +1,2 @@
 # fourInARow
- Two player connect four style style game
+ Two player connect four style game
